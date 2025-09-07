@@ -1,0 +1,8 @@
+Developed an expert system using rule-based logic and deep learning to predict personalized insulin 
+dosage for diabetic patient based on parameters like blood glucose levels, weight and physical activity.
+Designed and implemented a knowledge base in python using clinical guidelines and inputs from PIMA
+Indian diabetes dataset.
+Key points:
+Role: Team Leader
+Tools and Tech: Python, Excel sheets 
+Outcome: 82% Accuracy

@@ -1,0 +1,1 @@
+that enables efficient handling of library operations such as user authentication, book management, issuing and returning of books, and maintaining transaction records.
