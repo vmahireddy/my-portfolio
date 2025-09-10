@@ -182,6 +182,14 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
+.services-list div a button{
+    color: #ff004f;
+    padding: 10px;
+}
+.services-list div a button:hover{
+    background-color: grey;
+    color: #080808;
+}
 
 /* --------------     portfolio -------------- */
 
